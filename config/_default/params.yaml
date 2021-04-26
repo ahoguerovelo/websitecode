@@ -6,7 +6,7 @@
 # Appearance
 
 theme: custom1
-day_night: true
+day_night: false
 font: 'font-gentium'
 font_size: L
 
