@@ -71,6 +71,6 @@ _Hi! First things first, it's pronounced "Oh-Tee-Mon." Please, just call me Jaco
 
 I am a political science PhD student at the Harry S Truman School of Government & Public Affairs at the University of Missouri. Before moving to Missouri, I recieved my BA in Political Science from the [University of Louisiana at Lafayette](https://louisiana.edu) (Geaux Cajuns!). Professionally, my research interests include American state politics, American political institutions, interest groups, and collaborative governance. This research focuses on the collaborative (or hostile) interactions between government institutions and nongovernment actors or groups.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "Authement_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "Authement_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
 
 On a personal note, I was born and raised in the small town of Chauvin, Louisiana. Outside of the world of academia, you can usually find me waxing nostalgic about [Louisiana cuisine](https://mosquitosupperclub.com), talking about a [random yet interesting state legislative bill](https://legis.la.gov/legis/BillInfo.aspx?s=21RS&b=HB351&sbi=y), or playing video games... or possibly a combination of all three.
