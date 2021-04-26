@@ -60,7 +60,7 @@ social:
 #   icon_pack: ai
 #   link: media/resume.pdf
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Authement_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+- {{< icon name="download" pack="fas" >}} Download my {{< staticref "Authement_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
