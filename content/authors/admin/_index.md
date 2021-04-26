@@ -11,7 +11,7 @@ role: Political Science PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Missouri
-  url: https://www.missouri.edu
+  # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include American state politics, American political institutions, and advanced quantitative methods.
