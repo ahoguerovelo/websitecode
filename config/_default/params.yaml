@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: 'gentium'
+font: 'font-gentium'
 font_size: L
 
 # SEO
