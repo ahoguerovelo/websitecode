@@ -14,12 +14,12 @@ organizations:
   url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include American state politics, American government institutions, and advanced quantitative methods.
+bio: My research interests include American state politics, American political institutions, and advanced quantitative methods.
 
 # Interests to show in About widget
 interests:
 - American State Politics
-- American Governmental Institutions
+- American Political Institutions
 - Advanced Quantitative Methods
 
 # Education to show in About widget
