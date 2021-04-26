@@ -5,7 +5,7 @@ name = "custom1"
 light = true
 
 # Primary
-primary = "#D5DBDB"
+primary = "#34495e"
 
 # Menu
 menu_primary = "#D5DBDB"
@@ -16,6 +16,10 @@ menu_title = "#34495e"
 # Home sections
 home_section_odd = "#D5DBDB"
 home_section_even = "#BFC9CA"
+
+# links
+link = "#2980B9"
+link_hover = "#2980B9"
 
 [dark]
   link = "#bbdefb"
