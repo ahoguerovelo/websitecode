@@ -69,4 +69,4 @@ highlight_name: false
 
 Jacob Authement is a political science PhD student at the Truman School of Government & Public Affairs at the University of Missouri. His research interests include American state politics, American political institutions, and interest groups.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Authement_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "Authement_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}} here.
