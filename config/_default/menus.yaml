@@ -17,5 +17,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: Curriculum Vitae
-    url: https://jacob-authement.netlify.app/Authement_CV.pdf
+    url: https://jacobauthement.com/Authement_CV.pdf
     weight: 70
