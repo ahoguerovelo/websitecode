@@ -28,7 +28,7 @@ education:
   - course: PhD in Political Science
     institution: University of Missouri
     year: 2024 (expected)
-  - course: BA in Political Science (second major in English Folklore/Ethnography)
+  - course: BA in Political Science and English Folklore/Ethnography
     institution: University of Louisiana at Lafayette
     year: 2019
 
