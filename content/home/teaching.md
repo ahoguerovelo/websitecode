@@ -19,7 +19,7 @@ weight = 57
 +++
 <h2>University of Missouri</h2>
 
-_[Harry S Truman School of Government & Public Affairs](https://politicalscience.missouri.edu)_
+_[Harry S Truman School of Government and Public Affairs](https://politicalscience.missouri.edu)_
 
 + Introduction to Political Research, POLSC 3000 - Instructor _(lab)_, Spring 2021
 + State Government, POLSC 2100 - Instructor _(lab)_, Fall 2020
