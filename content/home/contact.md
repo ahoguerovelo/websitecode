@@ -21,4 +21,22 @@ content:
 design:
   columns: '2'
 ---
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3103.0008416703117!2d-92.3288614849214!3d38.94680915163561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87dcb7c12f162fdb%3A0x3e8428fb180903f4!2sProfessional%20Bldg%2C%20909%20University%20Ave%2C%20Columbia%2C%20MO%2065201!5e0!3m2!1sen!2sus!4v1621304268563!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<style>
+    .google-maps {
+        position: relative;
+        padding-bottom: 75%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
+</style>
+
+<div class="google-maps">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7098.94326104394!2d78.0430654485247!3d27.172909818538997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1385710909804" width="600" height="450" frameborder="0" style="border:0"></iframe>
+</div>
