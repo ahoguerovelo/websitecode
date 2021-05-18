@@ -21,7 +21,9 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 address:
-  street: Professional Building, 909 University Avenue
+  street: [Professional Building  
+  909 University Avenue  
+  Columbia, MO 65201]
   city: Columbia
   region: MO
   postcode: '65201'
