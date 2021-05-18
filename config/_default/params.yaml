@@ -21,17 +21,18 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 address:
-  street: 'Professional Building, Room 307  
-  909 University Avenue  
-  Columbia, MO 65201'
-  city:
-  region:
-  postcode:
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '38.94678625'
-  longitude: '-92.32664375085173'
+  street: |
+    Professional Building, Room 307  
+    909 University Avenue  
+    Columbia, MO 65201
+  #city:
+  #region:
+  #postcode:
+  #country:
+  #country_code:
+#coordinates:
+  #latitude: '38.94678625'
+  #longitude: '-92.32664375085173'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
