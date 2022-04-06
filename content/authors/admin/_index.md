@@ -69,7 +69,7 @@ highlight_name: false
 
 _Hi! First things first, it's pronounced "Oh-Tee-Mon." Please, just call me Jacob._
 
-I am a political science PhD student at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. Before moving to Missouri, I recieved my BA in Political Science from the [University of Louisiana at Lafayette](https://politicalscience.louisiana.edu) _(Geaux Cajuns!)_. Professionally, my research interests include American state politics, American political institutions, interest groups, and legislative expertise. This research focuses on the interactions between state political institutions and nongovernment actors or interest groups, specifically focusing on how the former deals with or uses the latter for expertise in political issue areas or upcoming bills and decisions.
+I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. Before moving to Missouri, I recieved my BA in Political Science from the [University of Louisiana at Lafayette](https://politicalscience.louisiana.edu) _(Geaux Cajuns!)_. Professionally, my research interests include American state politics, American political institutions, interest groups, and legislative expertise. This research focuses on the interactions between state political institutions and nongovernment actors or interest groups, specifically focusing on how the former deals with or uses the latter for expertise in political issue areas or upcoming bills and decisions.
 
 You can download my Curriculum Vitae {{< staticref "Authement_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
