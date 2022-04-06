@@ -6,7 +6,7 @@ title: Jacob Authement
 superuser: true
 
 # Role/position/tagline
-role: Political Science PhD Student
+role: Political Science PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
