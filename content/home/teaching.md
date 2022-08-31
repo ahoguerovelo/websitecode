@@ -19,10 +19,14 @@ weight = 57
 +++
 <h2>University of Missouri</h2>
 
-_[Harry S Truman School of Government & Public Affairs](https://politicalscience.missouri.edu)_
+_Teaching Assistant_
++ Race and The American Story, Spring 2022
++ Modern Political Thought, Spring 2022
++ Public Policy under Dr. Lael Keiser, Fall 2021
++ American Government under Dr. Bill Horner, Dr.Rudy Hernandez, and Dr.Connor Ewing, Spring 2021
++ American Government under Dr. Bill Horner, Dr.Connor Ewing, Dr.Rudy Hernandez, and Dr.Jake Haselswerdt, Fall 2020
++ American Constitutional Democracy under Dr. Jen Selin, Spring 2020
++ American Political Behavior under Dr. James Endersby, Fall 2019
 
-+ Introduction to Political Research, POLSC 3000 - Instructor _(lab)_, Fall 2021
-+ Introduction to Political Research, POLSC 3000 - Instructor _(lab)_, Spring 2021
-+ State Government, POLSC 2100 - Instructor _(lab)_, Fall 2020
-+ Strategy and Warfare, POLSC 4412 - Teaching Assistant, Spring 2020
-+ American National Government, POLSC 1100 - Teaching Assistant, Fall 2019
+# RA Senate Data Collection under Dr.Marvin L. Overby, Summer, Summer 2019
+# RA State Policy Task Force Membership Data Collection Dr. James Endersby, Summer 2020
