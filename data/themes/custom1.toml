@@ -8,13 +8,13 @@ light = true
 primary = "#220055"
 
 # Menu
-menu_primary = "#e8daef"
+menu_primary = "#ffffff"
 menu_text = "#220055"
 menu_text_active = "#795f98"
 menu_title = "#220055"
 
 # Home sections
-home_section_odd = "#e8daef"
+home_section_odd = "#ffffff"
 home_section_even = "#ebdbeb"
 
 # links
