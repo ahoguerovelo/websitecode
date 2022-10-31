@@ -29,5 +29,5 @@ _Teaching Assistant_
 + American Political Behavior under Dr. James Endersby, Fall 2019
 
 _Research Assistant_
-+ Senate Data Collection under Dr.Marvin L. Overby, Summer, Summer 2019
++ Senate Data Collection under Dr. Marvin L. Overby, Summer, Summer 2019
 + State Policy Task Force Membership Data Collection Dr. James Endersby, Summer 2020
