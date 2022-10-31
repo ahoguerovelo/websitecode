@@ -70,6 +70,6 @@ highlight_name: false
 _Hi! My name is Aime._
 
 
-I am a political science PhD student at the University of Missouri [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) focusing on comparative and American politics. My research interests lie at the intersection of minority representation, elections, and policy. My work on electoral politics has also led her to examine related issues such as refugee immigration, human rights violations in Latin America, and the Latin American political economy. 
+I am a political science PhD student at the University of Missouri [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) focusing on comparative and American politics. My research interests lie at the intersection of minority representation, elections, and policy. My work on electoral politics has also led me to examine related issues such as refugee immigration, human rights violations in Latin America, and the Latin American political economy. 
 
 You can download my Curriculum Vitae {{< staticref "hoguerovelo_CV.pdf" "newtab" >}}here{{< /staticref >}}.
